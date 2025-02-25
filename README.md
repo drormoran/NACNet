@@ -91,11 +91,13 @@ python train.py --conf conf/train_yfcc_sift.conf --data_path [data path] --pretr
 ## Citation
 If you find this work useful, please cite:
 ```
-@article{moran2024consensus,
+@article{moran2025consensus,
   title={Consensus Learning with Deep Sets for Essential Matrix Estimation},
   author={Moran, Dror and Margalit, Yuval and Trostianetsky, Guy and Khatib, Fadi and Galun, Meirav and Basri, Ronen},
-  journal={arXiv preprint arXiv:2406.17414},
-  year={2024}
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={101529--101551},
+  year={2025}
 }
 ```
 
